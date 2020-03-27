@@ -1,5 +1,5 @@
 {
-  "name": "blobber",
+  "name": "metaversetoolkit",
   "version": "0.0.1",
   "description": "",
   "main": "ipaddr.js",
@@ -14,9 +14,9 @@
   "author": "Avaer Kazmer <a@modules.io>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/avaer/blobber/issues"
+    "url": "https://github.com/exokitxr/metaversetoolkit/issues"
   },
-  "homepage": "https://github.com/avaer/blobber#readme",
+  "homepage": "https://github.com/exokitxr/metaversetoolkit#readme",
   "dependencies": {
     "express": "^4.17.1"
   }
