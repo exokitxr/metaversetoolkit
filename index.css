@@ -9,9 +9,16 @@ body {
   font-size: 12px;
 }
 a {
+  font-weight: 600;
   color: inherit;
-  text-decoration: none;
+  // text-decoration: none;
   cursor: pointer;
+}
+a:hover {
+  color: #42a5f5;
+}
+a:active {
+  color: #1e88e5;
 }
 /* ul {
   margin: 0;
@@ -556,6 +563,7 @@ canvas {
   display: flex;
   width: 600px;
   margin-left: 100px;
+  flex-direction: column;
 }
 .hero .container h1 {
   padding: 20px 0;
@@ -605,6 +613,9 @@ canvas {
   display: flex;
   flex-direction: column;
   flex: 1;
+}
+.container > ul {
+  font-size: 20px;
 }
 /* section:nth-child(even) {
   background-color: #333;
